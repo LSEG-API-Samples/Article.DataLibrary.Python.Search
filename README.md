@@ -1,6 +1,6 @@
 # Building Search into your Application Workflow
 
-For the equivalent .Net implementation, refer here: [Article.RDPLibrary.DotNet.Search](https://github.com/Refinitiv-API-Samples/Article.RDPLibrary.DotNet.Search)
+For the equivalent .Net implementation, refer here: [Article.DataLibrary.DotNet.Search](https://github.com/Refinitiv-API-Samples/Article.DataLibrary.DotNet.Search)
 
 
 ## <a id="overview"></a>Overview
@@ -9,7 +9,7 @@ With the wealth of content offered within the Refinitiv ecosystem, the following
 Details and concepts are further explained in the [Building Search into your Application Workflow](https://developers.refinitiv.com/en/article-catalog/article/building-search-into-your-application-workflow) article published on the [Refinitiv Developer Community portal](https://developers.refinitiv.com).
 
 ## <a id="disclaimer"></a>Disclaimer
-The source code presented in this project has been written by Refinitiv only for the purpose of illustrating the concepts of creating example scenarios using the Refinitiv Data Library for Python.
+TheÂ source code presented in this project has been written by Refinitiv only for the purpose of illustrating the concepts of creating example scenarios using the Refinitiv Data Library for Python.
 
 ***Note:** To [ask questions](https://community.developers.refinitiv.com/index.html) and benefit from the learning material, I recommend you to register on the [Refinitiv Developer Community](https://developers.refinitiv.com)*
 
