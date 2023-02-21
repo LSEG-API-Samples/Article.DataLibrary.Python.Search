@@ -38,6 +38,7 @@ The application package includes a series of Jupyter Notebooks demonstrating fea
 * <a id="authors"></a>Authors
 
 * **Nick Zincone** - Release 1.0.  *Initial version*
+* **Nick Zincone** - Release 1.1.  *Updated to reflect new RD Library release*
 
 
 
